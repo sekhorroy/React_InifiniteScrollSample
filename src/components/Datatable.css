@@ -1,0 +1,27 @@
+.datatable-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.datatable-items {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: large;
+    padding: 20px;
+}
+
+.item-title {
+    max-width: 400px;
+    padding-left: 20px;
+}
+
+
+.item-id {
+    max-width: 100px;
+    padding-left: 20px;
+}
+
+
